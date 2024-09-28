@@ -1,0 +1,307 @@
+{
+    "ranks": [
+        {
+            "rank": "доступен только после приглашения друзей",
+            "cards": [
+                {
+                    "name": "Стандартный дом",
+                    "description": "пополни коллекцию карт хорошим домом",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 200000,
+                    "friends_required": 1,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Стандарт Машина",
+                    "description": "пополни коллекцию карт хорошей машиной",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 100000,
+                    "friends_required": 1,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Рыболовной Лодки",
+                    "description": "пополни коллекцию карт рыболовной лодной",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 50000,
+                    "friends_required": 1,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Вау Жена",
+                    "description": "пополни коллекцию карт красивейшей девушкой",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 30000,
+                    "friends_required": 2,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Вау Муж",
+                    "description": "пополни коллекцию карт настоящим мужчиной",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 30000,
+                    "friends_required": 2,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Джентельмен",
+                    "description": "пополни коллекцию карт элитным, белым костюмом",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 10000,
+                    "friends_required": 3,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Хай-Тек Хаус",
+                    "description": "пополни коллекцию карт импортным домом",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 2000000,
+                    "friends_required": 5,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Спорткар",
+                    "description": "пополни коллекцию карт импортным спорткаром",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 1050000,
+                    "friends_required": 5,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Элитная яхта",
+                    "description": "пополни коллекцию карт импортной яхтой",
+                    "effect": "Увеличивает общую коллекцию карт.",
+                    "price": 1500000,
+                    "friends_required": 5,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                }
+            ]
+        },
+        {
+            "rank": "Новичок",
+            "cards": [
+                {
+                    "name": "Гардеробщик",
+                    "description": "прибавляет игроку 500 прибыли в час",
+                    "effect": "Увеличивает прибыль игрока на 500 в час.",
+                    "price": 8000,
+                    "profit_per_hour": 500,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Бармен",
+                    "description": "600 прибыли в час",
+                    "effect": "Увеличивает прибыль игрока на 600 в час.",
+                    "price": 10000,
+                    "profit_per_hour": 600,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Точка",
+                    "description": "ларек добавляет 3 к прибыли, работает всегда",
+                    "effect": "Добавляет 3 к прибыли игрока.",
+                    "price": 80000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Маркетинговая кампания",
+                    "description": "Увеличивает выигрыша на 20%, срок действия 3 дня",
+                    "effect": "Увеличивает все выигрыши на 20% на 3 дня.",
+                    "price": 250000,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Дополнительное вращение",
+                    "description": "стоит 1000, купить можно раз в день",
+                    "effect": "Позволяет получить дополнительное вращение.",
+                    "price": 1000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Удачный Шанс",
+                    "description": "увеличивает вероятность выиграть слот х2 на 60%, действует 1 день",
+                    "effect": "Увеличивает вероятность выигрыша на 60% на 1 день.",
+                    "price": 100000,
+                    "profit_per_hour": null,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Малый кешбек",
+                    "description": "Возвращает игроку 10% от ставки, действует 2 часа",
+                    "effect": "Возвращает 10% от ставки игрока в течение 2 часов.",
+                    "price": 5000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                }
+            ]
+        },
+        {
+            "rank": "Регуляр",
+            "cards": [
+                {
+                    "name": "Азартный",
+                    "description": "бонусная карта (+500) за новый уровень",
+                    "effect": "Приносит 500 дополнительных монет за новый уровень.",
+                    "profit_per_hour": 500,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Охранник",
+                    "description": "прибавляет 1000 монет к прибыли",
+                    "effect": "Увеличивает прибыль игрока на 1000.",
+                    "price": 15000,
+                    "profit_per_hour": 1000,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Ресторан",
+                    "description": "добавляет 8000 к прибыли",
+                    "effect": "Увеличивает прибыль игрока на 8000.",
+                    "price": 200000,
+                    "profit_per_hour": 8000,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "ускорение часового пополнения",
+                    "description": "х2, работает полтора часа",
+                    "effect": "Удваивает часовую прибыль на 1.5 часа.",
+                    "price": 50000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Личная охрана",
+                    "description": "дает возможность получать часовой баланс в течении 5 часов",
+                    "effect": "Обеспечивает часовой баланс в течение 5 часов.",
+                    "price": 60000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Перезагрузка колеса",
+                    "description": "пополняет энергию колеса, можно купить 2 раза в день",
+                    "effect": "Восстанавливает энергию колеса, позволяет купить 2 раза в день.",
+                    "price": 100000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 2
+                }
+            ]
+        },
+        {
+            "rank": "Опытный игрок",
+            "cards": [
+                {
+                    "name": "Азартный",
+                    "description": "бонусная карта +600 за новый уровень",
+                    "effect": "Приносит 600 дополнительных монет за новый уровень.",
+                    "profit_per_hour": 600,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Лизинговая компания",
+                    "description": "прибавляет 15000 прибыли в час",
+                    "effect": "Увеличивает прибыль игрока на 15000 в час.",
+                    "price": 400000,
+                    "profit_per_hour": 15000,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Диллер",
+                    "description": "прибавляет 3000 монет прибыли в час",
+                    "effect": "Увеличивает прибыль игрока на 3000 в час.",
+                    "price": 40000,
+                    "profit_per_hour": 3000,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Менеджер Стола",
+                    "description": "прибавляет 3500 монет прибыли в час",
+                    "effect": "Увеличивает прибыль игрока на 3500 в час.",
+                    "price": 45000,
+                    "profit_per_hour": 3500,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Уверенность",
+                    "description": "позволяет получить 100% приз при вращении колеса",
+                    "effect": "Гарантирует 100% приз при вращении колеса.",
+                    "price": 450000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Элитные призы",
+                    "description": "позволяет заработать без ставки",
+                    "effect": "Позволяет зарабатывать без необходимости делать ставку.",
+                    "price": 100000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Работа на результат",
+                    "description": "повышает часовую прибыль от каждого бизнеса на 10%",
+                    "effect": "Увеличивает прибыль от бизнеса на 10% каждый час.",
+                    "price": 200000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Питомец",
+                    "description": "пополни свою коллекцию карт невероятно красивой кошкой \"русской голубой\"",
+                    "effect": "Добавляет красивую кошку в коллекцию.",
+                    "price": 3000000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                },
+                {
+                    "name": "Питомец",
+                    "description": "пополни свою коллекцию карт невероятно красивым \"доберманом\"",
+                    "effect": "Добавляет добермана в коллекцию.",
+                    "price": 3000000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                }
+            ]
+        },
+        {
+            "rank": "Хайроллер",
+            "cards": [
+                {
+                    "name": "Дизайнер",
+                    "description": "Добавляет 40.000 монет к твоей часовой прибыли",
+                    "effect": "Увеличивает часовую прибыль на 40000.",
+                    "price": 1500000,
+                    "profit_per_hour": 40000,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Азартный",
+                    "description": "бонусная карта +600 за новый уровень",
+                    "effect": "Приносит 600 дополнительных монет за новый уровень.",
+                    "profit_per_hour": 600,
+                    "purchase_limit": null
+                },
+                {
+                    "name": "Экстра Кешбек",
+                    "description": "возвращает всю ставку, 1 раз в день",
+                    "effect": "Возвращает всю ставку игрока один раз в день.",
+                    "price": 200000,
+                    "profit_per_hour": null,
+                    "purchase_limit": 1
+                }
+            ]
+        }
+    ]
+}
